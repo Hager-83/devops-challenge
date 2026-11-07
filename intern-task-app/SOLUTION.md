@@ -4,7 +4,7 @@
 
 [▶ Watch the short demo]
 
-![DEMO](../images/atomity1.gif)
+![DEMO](images/atomity1.gif)
 
 A dependency-free Python service, packaged with Docker and verified on Minikube.
 
@@ -70,17 +70,17 @@ Local port `8081` avoids an existing host-port conflict.
 
 **Deployment ready**
 
-![Kubernetes deployment and Service](../images/deployment.png)
+![Kubernetes deployment and Service](images/deployment.png)
 
 <details>
 <summary>View HTTP responses</summary>
 
 **Application**
 
-![Application response](../images/local-host.png)
+![Application response](images/local-host.png)
 
 **Health check**
 
-![Health endpoint response](../images/health.png)
+![Health endpoint response](images/health.png)
 
 </details>
